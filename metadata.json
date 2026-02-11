@@ -1,0 +1,7 @@
+{
+  "name": " Stylo",
+  "description": "An innovative AI application designed to seamlessly blend images. Upload photos of an adult and a child to create a realistic, emotionally resonant image of them in a warm, natural embrace using advanced generative models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
